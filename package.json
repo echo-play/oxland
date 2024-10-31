@@ -1,0 +1,22 @@
+{
+  "name": "oxland",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "bunx --bun next dev",
+    "build": "bunx --bun next build",
+    "start": "bunx --bun next start",
+    "lint": "bunx --bun next lint"
+  },
+  "dependencies": {
+    "@argent/tma-wallet": "^1.17.0",
+    "@types/node": "^22.8.5",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "next": "15.0.2",
+    "react": "19.0.0-rc-02c0e824-20241028",
+    "react-dom": "19.0.0-rc-02c0e824-20241028",
+    "starknet": "^latest",
+    "typescript": "^5.6.3"
+  }
+}
