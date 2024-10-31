@@ -8,6 +8,8 @@ OxLand is a roguelike game crafted with the latest Cocos engine, offering seamle
 
 > **Note**: OxLand is currently under active development. The current demo version is for testing purposes only and does not represent the final quality of the game. We're working hard to bring you an amazing gaming experience!
 
+Demo video:[https://www.youtube.com/watch?v=lNsbFZuZWOM](https://www.youtube.com/watch?v=lNsbFZuZWOM)
+
 ## Features
 
 - 🎮 Built with Cocos Engine for smooth gameplay
