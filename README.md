@@ -4,7 +4,7 @@
 
 # OxLand
 
-OxLand is a roguelike game crafted with the latest Cocos engine, offering seamless integration with Argent Telegram for an interactive experience. Engage directly with the game's bot at [https://t.me/oxLand_bot?game=oxLand](https://t.me/oxLand_bot?game=oxLand) and simply click "Play Game" to embark on your adventure. **The game has a lot of data, loading is slow, please be patient...**
+OxLand is a roguelike game crafted with the latest Cocos engine, offering seamless integration with Argent Telegram for an interactive experience. Engage directly with the game's bot at [https://t.me/oxLand_bot?game=oxLand](https://t.me/oxLand_bot?game=oxLand) and simply click "Play Game" to embark on your adventure. **Please be patient while the game loads...**
 
 > **Note**: OxLand is currently under active development. The current demo version is for testing purposes only and does not represent the final quality of the game. We're working hard to bring you an amazing gaming experience!
 
