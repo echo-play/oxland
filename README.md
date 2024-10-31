@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[logo2.jpeg](https://github.com/echo-play/oxland/blob/main/public/logo2.jpeg)" alt="OxLand Logo" width="400"/>
+  <img src="https://github.com/echo-play/oxland/blob/068b9e3e472a10cfc5a2268230dab23fbe466f64/public/logo2.jpeg?raw=true" alt="OxLand Logo" width="400"/>
 </p>
 
 # OxLand
